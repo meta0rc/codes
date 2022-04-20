@@ -1,0 +1,1 @@
+senha do republicador = '25x0231'
